@@ -5,7 +5,7 @@ git add . =>it add all the files in the project to be staged
 git commit -m  '(message)' => commit the code/creates the version
 git log = > to see all the commits
 git reset --hard logHash => to rollback to the previous version
-
+git reset --soft loghash => rollback to the previous version with code
 
 branching
 soft reset
